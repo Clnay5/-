@@ -1,0 +1,11 @@
+/.vs/
+/WindowsFormsApp1/
+/准备/*
+!/准备/testdata/
+**/bin/
+**/obj/
+**/packages/
+*.user
+*.suo
+~$*
+*.lnk
